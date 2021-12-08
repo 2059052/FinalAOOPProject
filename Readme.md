@@ -1,7 +1,7 @@
 # Final AOOP Project
 ### Nguyễn Phú Thành - 2059052
 ### Mail: 2059052@itec.hcmus.edu.vn
-### Github: 
+###Github: https://github.com/2059052/FinalAOOPProject
 
 
 ---
